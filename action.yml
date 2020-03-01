@@ -1,0 +1,8 @@
+name: 'Action Debugger'
+description: 'Interactive Debugger for GitHub Actions with tmate.io'
+runs:
+  using: 'node12'
+  main: 'action.js'
+branding:
+  icon: 'terminal'
+  color: 'green'
